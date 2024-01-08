@@ -1,0 +1,41 @@
+
+https://dbdesigner.page.link/eJFGwFXqnqpNND8J8
+ ^^ link to my model
+TABLES
+
+ANIMALS
+id
+animal 
+name
+gender 
+cost 
+animal species
+adopted y/n
+
+ANIMAL SPECIES
+id 
+dogs
+cats
+bunnies 
+snakes
+
+
+HEALTH RECORDS
+id
+animal name
+date
+medical conditions 
+vaccinations
+surgeries 
+
+
+ADOPTERS
+adopters name 
+adopters address
+adopters phone number
+adpoter email 
+
+
+FOODS
+food_id
+brand
